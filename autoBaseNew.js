@@ -15,7 +15,7 @@ let autoBase = [{
         km: 0,
         color: "Blanco",
         cuotas: 14,
-        anio: 2019,
+        anio: 2018,
         patente: "JJK116",
         vendido: false
     
